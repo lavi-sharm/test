@@ -1,3 +1,0 @@
-Name : Lavi Sharma
-Skills: HTML, CSS, JS, Next.js
-Email: lavisharma1792@gmail.com
